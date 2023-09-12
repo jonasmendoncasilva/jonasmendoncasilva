@@ -19,7 +19,7 @@ Trabalho atualmente com manutenção de computadores e impressoras, mas possuo u
   [<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>](https://www.mysql.com/ "MySQL")
   [<img align="center" alt="PostgreSQL" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/>](https://www.mysql.com/ "PostgreSQL")
   [<img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />](https://learning.postman.com/docs/developer/intro-api/ "Postman")
-   [<img align="center" alt="Git" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />](https://git-scm.com/ "Git")
-
+  [<img align="center" alt="Git" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />](https://git-scm.com/ "Git")
+   [<img align="center" alt="Docker" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />](https://www.docker.com/ "Docker")
 
  </div>
